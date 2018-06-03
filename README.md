@@ -6,13 +6,13 @@ Please add your own library that you many know in the respected sub-topics.
 
 ## Content
 
- - [Nice Background](#nice-background)
- - [Logo Maker](#logo-maker)
+ - [Nice Backgrounds](#nice-backgrounds)
+ - [Logo Makers](#logo-makers)
  - [Icons](#icons)
  - [Whole CSS](#whole-css)
- - [Animation](#animations)
+ - [Animations](#animations)
  
-## Nice Background
+## Nice Backgrounds
 
 - [Particle JS](https://github.com/VincentGarreau/particles.js/)
 - [FireFlies](https://codepen.io/Thibka/pen/mWGxNj)
@@ -20,7 +20,7 @@ Please add your own library that you many know in the respected sub-topics.
 - [Steller JS](http://markdalgleish.com/projects/stellar.js/)
 - [Connecting Dots](https://codepen.io/dado3212/pen/YPzOKj)
 
-## Logo Maker
+## Logo Makers
 
 - [Wix Logomaker](https://www.wix.com/logo/maker)
 
@@ -34,7 +34,7 @@ Please add your own library that you many know in the respected sub-topics.
 - [Bootstrap](https://getbootstrap.com/)
 - [CSS Grid](https://cssgrid.io/)
 
-## Animation
+## Animations
 
 - [AnimeJS](https://github.com/juliangarnier/anime/)
 - [AnimateCSS](https://github.com/daneden/animate.css)
