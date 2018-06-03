@@ -14,6 +14,8 @@ Please add your own library that you many know in the respected sub-topics.
 
 - [Steller JS](http://markdalgleish.com/projects/stellar.js/)
 
+-[Connecting Dots](https://codepen.io/dado3212/pen/YPzOKj)
+
 ## Icons
 
 - [Font Awesome](https://fontawesome.com/)
