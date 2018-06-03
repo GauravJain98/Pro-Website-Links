@@ -9,4 +9,4 @@ Please add your own library that you many know in the respected sub-topic
 
 ## Animation
 
-- [Anime](https://github.com/juliangarnier/anime/)
+- [AnimeJS](https://github.com/juliangarnier/anime/)
