@@ -8,6 +8,8 @@ Please add your own library that you many know in the respected sub-topics.
 
 - [Particle JS](https://github.com/VincentGarreau/particles.js/)
 
+- [FireFlies](https://codepen.io/Thibka/pen/mWGxNj)
+
 - [Random Balls](https://codepen.io/nashvail/pen/wpGgXO)
 
 - [Steller JS](http://markdalgleish.com/projects/stellar.js/)
