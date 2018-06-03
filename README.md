@@ -1,6 +1,8 @@
 # Pro-Website-Links
-Links for libraries needed to make a pro website for a noob
-Please add your own library that you many know in the respected sub-topic
+
+Links for libraries needed to make a pro website for front-end noobs like myself.
+
+Please add your own library that you many know in the respected sub-topics.
 
 
 ## Nice Background
