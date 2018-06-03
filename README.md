@@ -7,14 +7,10 @@ Please add your own library that you many know in the respected sub-topics.
 ## Nice Background
 
 - [Particle JS](https://github.com/VincentGarreau/particles.js/)
-
 - [FireFlies](https://codepen.io/Thibka/pen/mWGxNj)
-
 - [Random Balls](https://codepen.io/nashvail/pen/wpGgXO)
-
 - [Steller JS](http://markdalgleish.com/projects/stellar.js/)
-
--[Connecting Dots](https://codepen.io/dado3212/pen/YPzOKj)
+- [Connecting Dots](https://codepen.io/dado3212/pen/YPzOKj)
 
 ## Icons
 
