@@ -37,4 +37,5 @@ Please add your own library that you many know in the respected sub-topics.
 ## Animations
 
 - [AnimeJS](https://github.com/juliangarnier/anime/)
+- [HoverCSS](http://ianlunn.github.io/Hover/)
 - [AnimateCSS](https://github.com/daneden/animate.css)
