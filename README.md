@@ -45,4 +45,5 @@ Please add your own library that you many know in the respected sub-topics.
 
 ## Loading Screen
 
-- [Spinner](https://icons8.com/cssload/en/spinners)
+- [Basic Spinner](https://codepen.io/bradtraversy/pen/YLNYQE)
+- [Advance Spinners](https://icons8.com/cssload/en/spinners)
