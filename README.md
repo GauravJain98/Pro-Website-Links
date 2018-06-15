@@ -11,6 +11,7 @@ Please add your own library that you many know in the respected sub-topics.
  - [Icons](#icons)
  - [Whole CSS](#whole-css)
  - [Animations](#animations)
+ - [Spinner](#spinner)
  
 ## Nice Backgrounds
 
@@ -41,3 +42,7 @@ Please add your own library that you many know in the respected sub-topics.
 - [AnimeJS](https://github.com/juliangarnier/anime/)
 - [HoverCSS](http://ianlunn.github.io/Hover/)
 - [AnimateCSS](https://github.com/daneden/animate.css)
+
+## Loading Screen
+
+- [Spinner](https://codepen.io/bradtraversy/pen/YLNYQE)
