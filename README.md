@@ -11,7 +11,7 @@ Please add your own library that you many know in the respected sub-topics.
  - [Icons](#icons)
  - [Whole CSS](#whole-css)
  - [Animations](#animations)
- - [Spinner](#spinner)
+ - [Loading Screen](#loading-screen)
  
 ## Nice Backgrounds
 
